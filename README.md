@@ -1,3 +1,5 @@
+Sept 15, 2026
+
 # aomm-validation-public
 
 Public scripts supporting the internal validation of AOMM performance, including work conducted with independent research collaborators.
@@ -8,4 +10,6 @@ Users may run these scripts with their own appropriately formatted OGTT/MTT data
 
 These materials are provided as proof of workflow and reproducibility. They are not a substitute for an independent validation study or regulatory software validation package.
 
-
+For more info: nanomathllc@nanomath.us 
+www.nanomath.us
+ALL RIGHTS RESERVED
