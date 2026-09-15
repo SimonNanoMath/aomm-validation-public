@@ -1,5 +1,9 @@
 clear; clc;
 
+%Author: Martina Drecogna, U of Pavia and Padova
+%Date July 31, 2026
+%martina.drecogna@unipd.it
+
 %% MATLAB computation
 
 inputFileName = 'OGTT_input_sample10.csv';
